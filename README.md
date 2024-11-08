@@ -76,6 +76,7 @@ uv run pytest
 
 
 ## 🔍 Project Structure
+```
 uv-ci-template/
 |── main.py # FastAPI application
 ├── tests/
@@ -84,6 +85,7 @@ uv-ci-template/
 ├── pyproject.toml # Project configuration
 ├── uv.lock # Libs and dependencies
 └── README.md
+```
 
 
 ## 👥 Contributing
